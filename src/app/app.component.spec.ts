@@ -16,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'DddendaTask'`, () => {
+  it(`should have as title 'AddendaTask'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('DddendaTask');
+    expect(app.title).toEqual('AddendaTask');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('DddendaTask app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('AddendaTask app is running!');
   });
 });
