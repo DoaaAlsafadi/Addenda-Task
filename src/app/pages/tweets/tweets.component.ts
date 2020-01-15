@@ -1,3 +1,4 @@
+import { TweetsService } from './../../services/tweets.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,9 +8,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TweetsComponent implements OnInit {
 
-  constructor() { }
+  constructor(private tweetService:TweetsService) { }
 
   ngOnInit() {
   }
 
+  getTweets(){
+this.tweetService.getTweets().subscribe(res=> {
+  console.log(res);
+
+})
+  }
 }

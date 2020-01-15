@@ -1,0 +1,2207 @@
+[
+  {
+      "created_at": "Tue Jun 11 07:19:42 +0000 2019",
+      "entities": {
+          "urls": [
+              {
+                  "display_url": "twitter.com/i/web/status/1…",
+                  "expanded_url": "https://twitter.com/i/web/status/1138345044673384450",
+                  "indices": [
+                      117,
+                      140
+                  ],
+                  "url": "https://t.co/9OZnpEmcEi"
+              }
+          ],
+          "user_mentions": [
+              {
+                  "id": 895360309,
+                  "id_str": "895360309",
+                  "indices": [
+                      0,
+                      14
+                  ],
+                  "name": "Je suis Azhar (Ban Underage Marriage)",
+                  "screen_name": "azhar_ridhwan"
+              },
+              {
+                  "id": 607083299,
+                  "id_str": "607083299",
+                  "indices": [
+                      15,
+                      28
+                  ],
+                  "name": "Rakyat: @abematron",
+                  "screen_name": "twt_malaysia"
+              },
+              {
+                  "id": 2755305704,
+                  "id_str": "2755305704",
+                  "indices": [
+                      29,
+                      43
+                  ],
+                  "name": "SELAMAT HARI RAYA",
+                  "screen_name": "syafiqahkamar"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138345044673384400,
+      "id_str": "1138345044673384450",
+      "in_reply_to_screen_name": "azhar_ridhwan",
+      "in_reply_to_status_id": 1138337313052799000,
+      "in_reply_to_status_id_str": "1138337313052798977",
+      "in_reply_to_user_id": 895360309,
+      "in_reply_to_user_id_str": "895360309",
+      "is_quote_status": true,
+      "lang": "in",
+      "metadata": {
+          "iso_language_code": "in",
+          "result_type": "recent"
+      },
+      "possibly_sensitive": false,
+      "quoted_status": {
+          "created_at": "Tue Nov 20 18:42:13 +0000 2018",
+          "entities": {
+              "media": [
+                  {
+                      "display_url": "pic.twitter.com/elmU6KfBEw",
+                      "expanded_url": "https://twitter.com/syawal/status/1064952068933218305/photo/1",
+                      "id": 1064951707854004200,
+                      "id_str": "1064951707854004224",
+                      "indices": [
+                          74,
+                          97
+                      ],
+                      "media_url": "http://pbs.twimg.com/media/Dsd375mVYAAkdkp.jpg",
+                      "media_url_https": "https://pbs.twimg.com/media/Dsd375mVYAAkdkp.jpg",
+                      "sizes": {
+                          "large": {
+                              "h": 1500,
+                              "resize": "fit",
+                              "w": 2000
+                          },
+                          "medium": {
+                              "h": 900,
+                              "resize": "fit",
+                              "w": 1200
+                          },
+                          "small": {
+                              "h": 510,
+                              "resize": "fit",
+                              "w": 680
+                          },
+                          "thumb": {
+                              "h": 150,
+                              "resize": "crop",
+                              "w": 150
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/elmU6KfBEw"
+                  }
+              ],
+              "urls": [
+                  {
+                      "display_url": "eps.mbpj.gov.my/SlideTod/MBPJ_…",
+                      "expanded_url": "http://eps.mbpj.gov.my/SlideTod/MBPJ_GKLKV_Nov2013_SPAD.pdf",
+                      "indices": [
+                          50,
+                          73
+                      ],
+                      "url": "https://t.co/lFphC7M12n"
+                  }
+              ]
+          },
+          "extended_entities": {
+              "media": [
+                  {
+                      "display_url": "pic.twitter.com/elmU6KfBEw",
+                      "expanded_url": "https://twitter.com/syawal/status/1064952068933218305/photo/1",
+                      "id": 1064951707854004200,
+                      "id_str": "1064951707854004224",
+                      "indices": [
+                          74,
+                          97
+                      ],
+                      "media_url": "http://pbs.twimg.com/media/Dsd375mVYAAkdkp.jpg",
+                      "media_url_https": "https://pbs.twimg.com/media/Dsd375mVYAAkdkp.jpg",
+                      "sizes": {
+                          "large": {
+                              "h": 1500,
+                              "resize": "fit",
+                              "w": 2000
+                          },
+                          "medium": {
+                              "h": 900,
+                              "resize": "fit",
+                              "w": 1200
+                          },
+                          "small": {
+                              "h": 510,
+                              "resize": "fit",
+                              "w": 680
+                          },
+                          "thumb": {
+                              "h": 150,
+                              "resize": "crop",
+                              "w": 150
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/elmU6KfBEw"
+                  },
+                  {
+                      "display_url": "pic.twitter.com/elmU6KfBEw",
+                      "expanded_url": "https://twitter.com/syawal/status/1064952068933218305/photo/1",
+                      "id": 1064951791685558300,
+                      "id_str": "1064951791685558272",
+                      "indices": [
+                          74,
+                          97
+                      ],
+                      "media_url": "http://pbs.twimg.com/media/Dsd4Ax5VYAAwW-X.jpg",
+                      "media_url_https": "https://pbs.twimg.com/media/Dsd4Ax5VYAAwW-X.jpg",
+                      "sizes": {
+                          "large": {
+                              "h": 1500,
+                              "resize": "fit",
+                              "w": 2000
+                          },
+                          "medium": {
+                              "h": 900,
+                              "resize": "fit",
+                              "w": 1200
+                          },
+                          "small": {
+                              "h": 510,
+                              "resize": "fit",
+                              "w": 680
+                          },
+                          "thumb": {
+                              "h": 150,
+                              "resize": "crop",
+                              "w": 150
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/elmU6KfBEw"
+                  }
+              ]
+          },
+          "favorite_count": 1,
+          "favorited": false,
+          "id": 1064952068933218300,
+          "id_str": "1064952068933218305",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "in",
+              "result_type": "recent"
+          },
+          "possibly_sensitive": false,
+          "retweet_count": 0,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "text": "Asia Jaya Station (before and after BRT)\n\nsource: https://t.co/lFphC7M12n https://t.co/elmU6KfBEw",
+          "truncated": false,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Thu May 17 13:31:09 +0000 2007",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "“Everything should be made as simple as possible, but no simpler.” - Albert Einstein.  RT ≠ endorsement.",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "syawalisme.blogspot.com",
+                              "expanded_url": "http://syawalisme.blogspot.com",
+                              "indices": [
+                                  0,
+                                  22
+                              ],
+                              "url": "http://t.co/Jal1pyb4Fx"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 967,
+              "follow_request_sent": false,
+              "followers_count": 2644,
+              "following": false,
+              "friends_count": 4977,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 6107302,
+              "id_str": "6107302",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 418,
+              "location": "",
+              "name": "syawal™ シ",
+              "notifications": false,
+              "profile_background_color": "ACDED6",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/565014224716304384/K-ZhJmCx_normal.jpeg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/565014224716304384/K-ZhJmCx_normal.jpeg",
+              "profile_link_color": "038543",
+              "profile_sidebar_border_color": "EEEEEE",
+              "profile_sidebar_fill_color": "F6F6F6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "syawal",
+              "statuses_count": 149637,
+              "translator_type": "regular",
+              "url": "http://t.co/Jal1pyb4Fx",
+              "verified": false
+          }
+      },
+      "quoted_status_id": 1064952068933218300,
+      "quoted_status_id_str": "1064952068933218305",
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "@azhar_ridhwan @twt_malaysia @syafiqahkamar Mungkin xcukup lengkap studies utk laksanakan. Kebanyakan bandar yg bua… https://t.co/9OZnpEmcEi",
+      "truncated": true,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Thu May 17 13:31:09 +0000 2007",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "“Everything should be made as simple as possible, but no simpler.” - Albert Einstein.  RT ≠ endorsement.",
+          "entities": {
+              "url": {
+                  "urls": [
+                      {
+                          "display_url": "syawalisme.blogspot.com",
+                          "expanded_url": "http://syawalisme.blogspot.com",
+                          "indices": [
+                              0,
+                              22
+                          ],
+                          "url": "http://t.co/Jal1pyb4Fx"
+                      }
+                  ]
+              }
+          },
+          "favourites_count": 967,
+          "follow_request_sent": false,
+          "followers_count": 2644,
+          "following": false,
+          "friends_count": 4977,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 6107302,
+          "id_str": "6107302",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 418,
+          "location": "",
+          "name": "syawal™ シ",
+          "notifications": false,
+          "profile_background_color": "ACDED6",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/565014224716304384/K-ZhJmCx_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/565014224716304384/K-ZhJmCx_normal.jpeg",
+          "profile_link_color": "038543",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "F6F6F6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "syawal",
+          "statuses_count": 149637,
+          "translator_type": "regular",
+          "url": "http://t.co/Jal1pyb4Fx",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:39 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 97537762,
+                  "id_str": "97537762",
+                  "indices": [
+                      3,
+                      15
+                  ],
+                  "name": "Bakhtawar B-Zardari",
+                  "screen_name": "BakhtawarBZ"
+              },
+              {
+                  "id": 2214112296,
+                  "id_str": "2214112296",
+                  "indices": [
+                      22,
+                      34
+                  ],
+                  "name": "AsifAliZardari",
+                  "screen_name": "AAliZardari"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138345032929464300,
+      "id_str": "1138345032929464320",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 157,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Tue Jun 11 06:49:14 +0000 2019",
+          "entities": {
+              "urls": [
+                  {
+                      "display_url": "twitter.com/i/web/status/1…",
+                      "expanded_url": "https://twitter.com/i/web/status/1138337377099943936",
+                      "indices": [
+                          116,
+                          139
+                      ],
+                      "url": "https://t.co/f0Ld1M9tcD"
+                  }
+              ],
+              "user_mentions": [
+                  {
+                      "id": 2214112296,
+                      "id_str": "2214112296",
+                      "indices": [
+                          5,
+                          17
+                      ],
+                      "name": "AsifAliZardari",
+                      "screen_name": "AAliZardari"
+                  }
+              ]
+          },
+          "favorite_count": 343,
+          "favorited": false,
+          "id": 1138337377099944000,
+          "id_str": "1138337377099943936",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "possibly_sensitive": false,
+          "retweet_count": 157,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "Pres @AAliZardari never contested his illegal (pre trial) placement on the exit control list (since 2018). Did not… https://t.co/f0Ld1M9tcD",
+          "truncated": true,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Dec 17 22:16:59 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "MA(Hons) @EdinburghUni, #SZABIST Trustee & Chairperson, Occasional Rapper, 1st child born to a sitting female Prime Minister! Tweets Unfiltered- #JeayBhutto ❤️",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "instagram.com/bakhtawarbz",
+                              "expanded_url": "http://www.instagram.com/bakhtawarbz",
+                              "indices": [
+                                  0,
+                                  23
+                              ],
+                              "url": "https://t.co/G8JwxsCwWg"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 16339,
+              "follow_request_sent": false,
+              "followers_count": 2470053,
+              "following": false,
+              "friends_count": 694,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 97537762,
+              "id_str": "97537762",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 1456,
+              "location": "Karachi/Dubai",
+              "name": "Bakhtawar B-Zardari",
+              "notifications": false,
+              "profile_background_color": "9AE4E8",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/97537762/1464725345",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1039299405076213766/M4zBLWyf_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039299405076213766/M4zBLWyf_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "BDDCAD",
+              "profile_sidebar_fill_color": "DDFFCC",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "BakhtawarBZ",
+              "statuses_count": 7820,
+              "translator_type": "none",
+              "url": "https://t.co/G8JwxsCwWg",
+              "verified": true
+          }
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "text": "RT @BakhtawarBZ: Pres @AAliZardari never contested his illegal (pre trial) placement on the exit control list (since 2018). Did not shy fro…",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Thu Mar 21 08:12:59 +0000 2019",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Intellectual",
+          "favourites_count": 564,
+          "follow_request_sent": false,
+          "followers_count": 5,
+          "following": false,
+          "friends_count": 47,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 1108642645419745300,
+          "id_str": "1108642645419745280",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 0,
+          "location": "",
+          "name": "Safdar Ali",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1108642903503585280/q_Y0Dqvm_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108642903503585280/q_Y0Dqvm_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "SafdarA06653551",
+          "statuses_count": 474,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:38 +0000 2019",
+      "entities": {
+          "hashtags": [
+              {
+                  "indices": [
+                      66,
+                      72
+                  ],
+                  "text": "today"
+              },
+              {
+                  "indices": [
+                      76,
+                      87
+                  ],
+                  "text": "Budget2019"
+              }
+          ],
+          "urls": [
+              {
+                  "display_url": "twitter.com/i/web/status/1…",
+                  "expanded_url": "https://twitter.com/i/web/status/1138345027351011334",
+                  "indices": [
+                      117,
+                      140
+                  ],
+                  "url": "https://t.co/3GwjWKAKIp"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138345027351011300,
+      "id_str": "1138345027351011334",
+      "is_quote_status": true,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "possibly_sensitive": false,
+      "quoted_status": {
+          "created_at": "Mon Jun 10 16:44:19 +0000 2019",
+          "entities": {
+              "urls": [
+                  {
+                      "display_url": "twitter.com/i/web/status/1…",
+                      "expanded_url": "https://twitter.com/i/web/status/1138124747466784768",
+                      "indices": [
+                          117,
+                          140
+                      ],
+                      "url": "https://t.co/Z31DcFrQhs"
+                  }
+              ]
+          },
+          "favorite_count": 55,
+          "favorited": false,
+          "id": 1138124747466784800,
+          "id_str": "1138124747466784768",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "possibly_sensitive": false,
+          "retweet_count": 14,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "text": "- Total Budget of amounting 6800 Billion Rupees will be presented Tomorrow by Government\n- Budget Deficit will amou… https://t.co/Z31DcFrQhs",
+          "truncated": true,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Jun 29 16:54:30 +0000 2016",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Follow us to keep in touch with the latest economic, infrastructure developments, CPEC, CAREC, TAPI, IPP, NSP updates in #Pakistan.",
+              "favourites_count": 137,
+              "follow_request_sent": false,
+              "followers_count": 21088,
+              "following": false,
+              "friends_count": 142,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 748197966968561700,
+              "id_str": "748197966968561664",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 78,
+              "location": "Islamabad, Pakistan",
+              "name": "Developing Pakistan",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/748197966968561664/1528659265",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/908922295019819008/odjJ6Pmg_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/908922295019819008/odjJ6Pmg_normal.jpg",
+              "profile_link_color": "E81C4F",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "DevelopmentPk",
+              "statuses_count": 10355,
+              "translator_type": "none",
+              "verified": false
+          }
+      },
+      "quoted_status_id": 1138124747466784800,
+      "quoted_status_id_str": "1138124747466784768",
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "text": "- Total Budget of amounting 6800 Billion Rupees will be presented #today \n- #Budget2019  Deficit will amount to 300… https://t.co/3GwjWKAKIp",
+      "truncated": true,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Thu Mar 07 12:35:56 +0000 2013",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Diverse group of pvt sector professionals. Consultancy for and capacity building of nonprofits. Run a hospital. Building another one. RTs not endorsement.",
+          "entities": {
+              "url": {
+                  "urls": [
+                      {
+                          "display_url": "waseelafoundation.com",
+                          "expanded_url": "http://www.waseelafoundation.com",
+                          "indices": [
+                              0,
+                              23
+                          ],
+                          "url": "https://t.co/y5k5ubwp9W"
+                      }
+                  ]
+              }
+          },
+          "favourites_count": 1101,
+          "follow_request_sent": false,
+          "followers_count": 922,
+          "following": false,
+          "friends_count": 631,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 1248710826,
+          "id_str": "1248710826",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 3,
+          "location": "Lahore, Pakistan",
+          "name": "Waseela Tweets",
+          "notifications": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248710826/1540124067",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1039757488646701057/suaAJ2Cy_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039757488646701057/suaAJ2Cy_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "Waseela_Tweets",
+          "statuses_count": 2071,
+          "translator_type": "none",
+          "url": "https://t.co/y5k5ubwp9W",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:36 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 2897087026,
+                  "id_str": "2897087026",
+                  "indices": [
+                      0,
+                      15
+                  ],
+                  "name": "Balogun Of Spain",
+                  "screen_name": "BalogunOfSpain"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138345019952287700,
+      "id_str": "1138345019952287744",
+      "in_reply_to_screen_name": "BalogunOfSpain",
+      "in_reply_to_status_id": 1137637740290465800,
+      "in_reply_to_status_id_str": "1137637740290465792",
+      "in_reply_to_user_id": 2897087026,
+      "in_reply_to_user_id_str": "2897087026",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "@BalogunOfSpain Reddington get budget",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue Oct 05 08:39:28 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "music producer , audio engineer , recording artist, songwriter, bookings & enquiries ; bookcrossroadz@gmail.com",
+          "entities": {
+              "url": {
+                  "urls": [
+                      {
+                          "display_url": "itunes.apple.com/ng/artist/cros…",
+                          "expanded_url": "https://itunes.apple.com/ng/artist/crossroadz/1220804636",
+                          "indices": [
+                              0,
+                              23
+                          ],
+                          "url": "https://t.co/sh99CVqao5"
+                      }
+                  ]
+              }
+          },
+          "favourites_count": 4085,
+          "follow_request_sent": false,
+          "followers_count": 642,
+          "following": false,
+          "friends_count": 787,
+          "geo_enabled": true,
+          "has_extended_profile": true,
+          "id": 198801998,
+          "id_str": "198801998",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 3,
+          "location": "",
+          "name": "Crossroadz",
+          "notifications": false,
+          "profile_background_color": "0F1112",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": true,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/198801998/1542720300",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1136592055269019648/jeP3eJZA_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136592055269019648/jeP3eJZA_normal.jpg",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "EBEBEB",
+          "profile_text_color": "000333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "iamcrossroadz",
+          "statuses_count": 5477,
+          "translator_type": "none",
+          "url": "https://t.co/sh99CVqao5",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:32 +0000 2019",
+      "entities": {
+          "hashtags": [
+              {
+                  "indices": [
+                      114,
+                      120
+                  ],
+                  "text": "Saaho"
+              }
+          ],
+          "user_mentions": [
+              {
+                  "id": 865536044053143600,
+                  "id_str": "865536044053143554",
+                  "indices": [
+                      3,
+                      16
+                  ],
+                  "name": "Anudeep Prince™",
+                  "screen_name": "anuprince003"
+              },
+              {
+                  "id": 1059928676098367500,
+                  "id_str": "1059928676098367488",
+                  "indices": [
+                      18,
+                      31
+                  ],
+                  "name": "Lost Soul❤",
+                  "screen_name": "lostsoulriya"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138345002461933600,
+      "id_str": "1138345002461933569",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 4,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Mon Jun 10 18:29:21 +0000 2019",
+          "entities": {
+              "hashtags": [
+                  {
+                      "indices": [
+                          96,
+                          102
+                      ],
+                      "text": "Saaho"
+                  }
+              ],
+              "user_mentions": [
+                  {
+                      "id": 1059928676098367500,
+                      "id_str": "1059928676098367488",
+                      "indices": [
+                          0,
+                          13
+                      ],
+                      "name": "Lost Soul❤",
+                      "screen_name": "lostsoulriya"
+                  }
+              ]
+          },
+          "favorite_count": 16,
+          "favorited": false,
+          "id": 1138151178993262600,
+          "id_str": "1138151178993262595",
+          "in_reply_to_screen_name": "lostsoulriya",
+          "in_reply_to_status_id": 1138039205626404900,
+          "in_reply_to_status_id_str": "1138039205626404864",
+          "in_reply_to_user_id": 1059928676098367500,
+          "in_reply_to_user_id_str": "1059928676098367488",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "retweet_count": 4,
+          "retweeted": false,
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "text": "@lostsoulriya Diwali gun vs Real gun\nState film vs Indian film\nSmall budget vs Big budget movie\n#Saaho ??",
+          "truncated": false,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Fri May 19 11:54:08 +0000 2017",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "PRABHAS freak??|\nRashmikha ?\nVIRAT KOHLI CULT FAN?",
+              "favourites_count": 12607,
+              "follow_request_sent": false,
+              "followers_count": 931,
+              "following": false,
+              "friends_count": 924,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 865536044053143600,
+              "id_str": "865536044053143554",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 0,
+              "location": "Guntur, India",
+              "name": "Anudeep Prince™",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/865536044053143554/1551977223",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1059710822925000704/xMCN7kj7_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059710822925000704/xMCN7kj7_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "anuprince003",
+              "statuses_count": 7171,
+              "translator_type": "none",
+              "verified": false
+          }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @anuprince003: @lostsoulriya Diwali gun vs Real gun\nState film vs Indian film\nSmall budget vs Big budget movie\n#Saaho ??",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Sun Oct 09 15:54:57 +0000 2016",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "#prabhas    #Savithramma ? #Shobana garu ?\n#CaptainAmerica ??",
+          "favourites_count": 17144,
+          "follow_request_sent": false,
+          "followers_count": 276,
+          "following": false,
+          "friends_count": 1608,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 785146542638366700,
+          "id_str": "785146542638366720",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 0,
+          "location": "Limelight",
+          "name": "GAMBLER Y",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/785146542638366720/1560064598",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1137619329648750592/6FFH-iLs_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137619329648750592/6FFH-iLs_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "yashgambler13",
+          "statuses_count": 12974,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:30 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 292929271,
+                  "id_str": "292929271",
+                  "indices": [
+                      3,
+                      17
+                  ],
+                  "name": "Charlie Kirk",
+                  "screen_name": "charliekirk11"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344995449163800,
+      "id_str": "1138344995449163776",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 4800,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Tue Jun 11 02:46:19 +0000 2019",
+          "favorite_count": 8752,
+          "favorited": false,
+          "id": 1138276243181330400,
+          "id_str": "1138276243181330432",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "retweet_count": 4800,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "RT if you think members of Congress shouldn’t get paid unless they pass a balanced budget",
+          "truncated": false,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Wed May 04 13:37:25 +0000 2011",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Founder & President of @TPUSA Proud capitalist. Best Selling Author. We are all sinners, saved by Jesus. Opinions here are my own.",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "podcasts.apple.com/us/podcast/the…",
+                              "expanded_url": "https://podcasts.apple.com/us/podcast/the-charlie-kirk-show/id1460600818",
+                              "indices": [
+                                  0,
+                                  23
+                              ],
+                              "url": "https://t.co/ipaELfqIAB"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 26349,
+              "follow_request_sent": false,
+              "followers_count": 1114969,
+              "following": false,
+              "friends_count": 249330,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 292929271,
+              "id_str": "292929271",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 4586,
+              "location": "Chicago, Illinois",
+              "name": "Charlie Kirk",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/292929271/1546620818",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "charliekirk11",
+              "statuses_count": 43623,
+              "translator_type": "none",
+              "url": "https://t.co/ipaELfqIAB",
+              "verified": true
+          }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @charliekirk11: RT if you think members of Congress shouldn’t get paid unless they pass a balanced budget",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Sat Feb 27 18:48:27 +0000 2016",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "",
+          "favourites_count": 170827,
+          "follow_request_sent": false,
+          "followers_count": 5663,
+          "following": false,
+          "friends_count": 6091,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 703652933355880400,
+          "id_str": "703652933355880448",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 8,
+          "location": "",
+          "name": "Barbara Carucci",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/703652933355880448/1456599235",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/703654314544381952/ZOr8xuPR_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/703654314544381952/ZOr8xuPR_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "carucci_barbara",
+          "statuses_count": 90354,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:28 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 869423945182621700,
+                  "id_str": "869423945182621696",
+                  "indices": [
+                      3,
+                      15
+                  ],
+                  "name": "Ibrahim Shareef",
+                  "screen_name": "ibbe_sharyf"
+              },
+              {
+                  "id": 1084839734969430000,
+                  "id_str": "1084839734969430016",
+                  "indices": [
+                      17,
+                      33
+                  ],
+                  "name": "Ahmed Ahsan",
+                  "screen_name": "AhmedAh74441690"
+              },
+              {
+                  "id": 128279792,
+                  "id_str": "128279792",
+                  "indices": [
+                      34,
+                      42
+                  ],
+                  "name": "Ahmed Azaan",
+                  "screen_name": "axanner"
+              },
+              {
+                  "id": 870522519391883300,
+                  "id_str": "870522519391883264",
+                  "indices": [
+                      43,
+                      52
+                  ],
+                  "name": "Sin Hooth",
+                  "screen_name": "SinHooth"
+              },
+              {
+                  "id": 531018157,
+                  "id_str": "531018157",
+                  "indices": [
+                      53,
+                      62
+                  ],
+                  "name": "Ibrahim Mohamed Solih",
+                  "screen_name": "ibusolih"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344986695483400,
+      "id_str": "1138344986695483392",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 1,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Tue Jun 11 07:09:20 +0000 2019",
+          "entities": {
+              "urls": [
+                  {
+                      "display_url": "twitter.com/i/web/status/1…",
+                      "expanded_url": "https://twitter.com/i/web/status/1138342435711475713",
+                      "indices": [
+                          117,
+                          140
+                      ],
+                      "url": "https://t.co/ZBFclTt0r3"
+                  }
+              ],
+              "user_mentions": [
+                  {
+                      "id": 1084839734969430000,
+                      "id_str": "1084839734969430016",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Ahmed Ahsan",
+                      "screen_name": "AhmedAh74441690"
+                  },
+                  {
+                      "id": 128279792,
+                      "id_str": "128279792",
+                      "indices": [
+                          17,
+                          25
+                      ],
+                      "name": "Ahmed Azaan",
+                      "screen_name": "axanner"
+                  },
+                  {
+                      "id": 870522519391883300,
+                      "id_str": "870522519391883264",
+                      "indices": [
+                          26,
+                          35
+                      ],
+                      "name": "Sin Hooth",
+                      "screen_name": "SinHooth"
+                  },
+                  {
+                      "id": 531018157,
+                      "id_str": "531018157",
+                      "indices": [
+                          36,
+                          45
+                      ],
+                      "name": "Ibrahim Mohamed Solih",
+                      "screen_name": "ibusolih"
+                  }
+              ]
+          },
+          "favorite_count": 3,
+          "favorited": false,
+          "id": 1138342435711475700,
+          "id_str": "1138342435711475713",
+          "in_reply_to_screen_name": "AhmedAh74441690",
+          "in_reply_to_status_id": 1138340165204627500,
+          "in_reply_to_status_id_str": "1138340165204627456",
+          "in_reply_to_user_id": 1084839734969430000,
+          "in_reply_to_user_id_str": "1084839734969430016",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "retweet_count": 1,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "text": "@AhmedAh74441690 @axanner @SinHooth @ibusolih Can u imagine the amount of extra waste this is producing? From the u… https://t.co/ZBFclTt0r3",
+          "truncated": true,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Tue May 30 05:23:16 +0000 2017",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "i like chatty people but I don't respond to bots",
+              "favourites_count": 5013,
+              "follow_request_sent": false,
+              "followers_count": 482,
+              "following": false,
+              "friends_count": 870,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 869423945182621700,
+              "id_str": "869423945182621696",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 0,
+              "location": "",
+              "name": "Ibrahim Shareef",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/869423945182621696/1541337643",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1137418628804964352/MnvqzIMX_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137418628804964352/MnvqzIMX_normal.jpg",
+              "profile_link_color": "E81C4F",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "ibbe_sharyf",
+              "statuses_count": 7542,
+              "translator_type": "none",
+              "verified": false
+          }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @ibbe_sharyf: @AhmedAh74441690 @axanner @SinHooth @ibusolih Can u imagine the amount of extra waste this is producing? From the uneaten…",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri Jun 02 06:08:36 +0000 2017",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Havaadhulee bis, kirim jehi banas",
+          "favourites_count": 12190,
+          "follow_request_sent": false,
+          "followers_count": 271,
+          "following": false,
+          "friends_count": 722,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 870522519391883300,
+          "id_str": "870522519391883264",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 0,
+          "location": "Hell, MI",
+          "name": "Sin Hooth",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/870522519391883264/1496393013",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1137978939136069633/40kJJgXP_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137978939136069633/40kJJgXP_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "SinHooth",
+          "statuses_count": 12597,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:27 +0000 2019",
+      "entities": {
+          "hashtags": [
+              {
+                  "indices": [
+                      63,
+                      81
+                  ],
+                  "text": "ContrepointsSanté"
+              }
+          ],
+          "urls": [
+              {
+                  "display_url": "twitter.com/i/web/status/1…",
+                  "expanded_url": "https://twitter.com/i/web/status/1138344979892494337",
+                  "indices": [
+                      116,
+                      139
+                  ],
+                  "url": "https://t.co/3zpXqCpPDo"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344979892494300,
+      "id_str": "1138344979892494337",
+      "is_quote_status": false,
+      "lang": "fr",
+      "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "?️ Nicolas Revel, DG de l'Assurance maladie, sera l'invité des #ContrepointsSanté le 27 juin à 8h30, au restaurant… https://t.co/3zpXqCpPDo",
+      "truncated": true,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Thu Aug 04 10:02:39 +0000 2011",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Les #événements #communiqués #rapports et #analyses en #santé mais aussi les #débats #ContrepointsSanté \nPar les journalistes de @PresseInfosPlus",
+          "entities": {
+              "url": {
+                  "urls": [
+                      {
+                          "display_url": "veille-acteurs-sante.fr",
+                          "expanded_url": "http://www.veille-acteurs-sante.fr",
+                          "indices": [
+                              0,
+                              23
+                          ],
+                          "url": "https://t.co/0K9nG5wMFN"
+                      }
+                  ]
+              }
+          },
+          "favourites_count": 47,
+          "follow_request_sent": false,
+          "followers_count": 3221,
+          "following": false,
+          "friends_count": 910,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 348379160,
+          "id_str": "348379160",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "fr",
+          "listed_count": 202,
+          "location": "Vincennes, France",
+          "name": "Veille Acteurs Santé",
+          "notifications": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/348379160/1511347372",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/839955634959290368/ys2hS6f9_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/839955634959290368/ys2hS6f9_normal.jpg",
+          "profile_link_color": "CC0033",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "VeilleActSante",
+          "statuses_count": 7043,
+          "translator_type": "none",
+          "url": "https://t.co/0K9nG5wMFN",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:26 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 292929271,
+                  "id_str": "292929271",
+                  "indices": [
+                      3,
+                      17
+                  ],
+                  "name": "Charlie Kirk",
+                  "screen_name": "charliekirk11"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344976201502700,
+      "id_str": "1138344976201502720",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 4800,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Tue Jun 11 02:46:19 +0000 2019",
+          "favorite_count": 8752,
+          "favorited": false,
+          "id": 1138276243181330400,
+          "id_str": "1138276243181330432",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "retweet_count": 4800,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "RT if you think members of Congress shouldn’t get paid unless they pass a balanced budget",
+          "truncated": false,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Wed May 04 13:37:25 +0000 2011",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Founder & President of @TPUSA Proud capitalist. Best Selling Author. We are all sinners, saved by Jesus. Opinions here are my own.",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "podcasts.apple.com/us/podcast/the…",
+                              "expanded_url": "https://podcasts.apple.com/us/podcast/the-charlie-kirk-show/id1460600818",
+                              "indices": [
+                                  0,
+                                  23
+                              ],
+                              "url": "https://t.co/ipaELfqIAB"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 26349,
+              "follow_request_sent": false,
+              "followers_count": 1114969,
+              "following": false,
+              "friends_count": 249330,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 292929271,
+              "id_str": "292929271",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 4586,
+              "location": "Chicago, Illinois",
+              "name": "Charlie Kirk",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/292929271/1546620818",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "charliekirk11",
+              "statuses_count": 43623,
+              "translator_type": "none",
+              "url": "https://t.co/ipaELfqIAB",
+              "verified": true
+          }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "RT @charliekirk11: RT if you think members of Congress shouldn’t get paid unless they pass a balanced budget",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Sun Nov 26 22:34:56 +0000 2017",
+          "default_profile": true,
+          "default_profile_image": true,
+          "description": "",
+          "favourites_count": 8092,
+          "follow_request_sent": false,
+          "followers_count": 49,
+          "following": false,
+          "friends_count": 57,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 934913389419286500,
+          "id_str": "934913389419286529",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 0,
+          "location": "",
+          "name": "Randy",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_tile": false,
+          "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "Randy65274716",
+          "statuses_count": 134,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:26 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 61775718,
+                  "id_str": "61775718",
+                  "indices": [
+                      0,
+                      11
+                  ],
+                  "name": "The Sun - Chelsea",
+                  "screen_name": "SunChelsea"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344975886893000,
+      "id_str": "1138344975886893056",
+      "in_reply_to_screen_name": "SunChelsea",
+      "in_reply_to_status_id": 1138339400683855900,
+      "in_reply_to_status_id_str": "1138339400683855872",
+      "in_reply_to_user_id": 61775718,
+      "in_reply_to_user_id_str": "61775718",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "@SunChelsea Mourinho with a huge budget would be interesting",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri May 03 02:01:17 +0000 2019",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Advocate for Drunk Driving.",
+          "favourites_count": 1885,
+          "follow_request_sent": false,
+          "followers_count": 45,
+          "following": false,
+          "friends_count": 496,
+          "geo_enabled": true,
+          "has_extended_profile": false,
+          "id": 1124131785783353300,
+          "id_str": "1124131785783353344",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 0,
+          "location": "New York, NY",
+          "name": "Bill Langolis",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124131785783353344/1558810310",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1132228880536887298/rWQb-cqU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132228880536887298/rWQb-cqU_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "ThiccCapital",
+          "statuses_count": 935,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:26 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 292929271,
+                  "id_str": "292929271",
+                  "indices": [
+                      3,
+                      17
+                  ],
+                  "name": "Charlie Kirk",
+                  "screen_name": "charliekirk11"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344975337439200,
+      "id_str": "1138344975337439232",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 4800,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Tue Jun 11 02:46:19 +0000 2019",
+          "favorite_count": 8752,
+          "favorited": false,
+          "id": 1138276243181330400,
+          "id_str": "1138276243181330432",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "retweet_count": 4800,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "RT if you think members of Congress shouldn’t get paid unless they pass a balanced budget",
+          "truncated": false,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Wed May 04 13:37:25 +0000 2011",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Founder & President of @TPUSA Proud capitalist. Best Selling Author. We are all sinners, saved by Jesus. Opinions here are my own.",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "podcasts.apple.com/us/podcast/the…",
+                              "expanded_url": "https://podcasts.apple.com/us/podcast/the-charlie-kirk-show/id1460600818",
+                              "indices": [
+                                  0,
+                                  23
+                              ],
+                              "url": "https://t.co/ipaELfqIAB"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 26349,
+              "follow_request_sent": false,
+              "followers_count": 1114969,
+              "following": false,
+              "friends_count": 249330,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 292929271,
+              "id_str": "292929271",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 4586,
+              "location": "Chicago, Illinois",
+              "name": "Charlie Kirk",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/292929271/1546620818",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "charliekirk11",
+              "statuses_count": 43623,
+              "translator_type": "none",
+              "url": "https://t.co/ipaELfqIAB",
+              "verified": true
+          }
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "RT @charliekirk11: RT if you think members of Congress shouldn’t get paid unless they pass a balanced budget",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Sun Dec 14 14:18:46 +0000 2008",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "",
+          "favourites_count": 78,
+          "follow_request_sent": false,
+          "followers_count": 534,
+          "following": false,
+          "friends_count": 812,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 18116676,
+          "id_str": "18116676",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 84,
+          "location": "Jacksonville, NC",
+          "name": "Marjorie",
+          "notifications": false,
+          "profile_background_color": "EBEBEB",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/18116676/1470404980",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/810457918705430528/BcrLSGvo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/810457918705430528/BcrLSGvo_normal.jpg",
+          "profile_link_color": "990085",
+          "profile_sidebar_border_color": "DFDFDF",
+          "profile_sidebar_fill_color": "F3F3F3",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "marjoriemkh",
+          "statuses_count": 127018,
+          "translator_type": "none",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:24 +0000 2019",
+      "entities": {
+          "urls": [
+              {
+                  "display_url": "twitter.com/i/web/status/1…",
+                  "expanded_url": "https://twitter.com/i/web/status/1138344966546165766",
+                  "indices": [
+                      116,
+                      139
+                  ],
+                  "url": "https://t.co/1QcJzfvUa4"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344966546165800,
+      "id_str": "1138344966546165766",
+      "is_quote_status": false,
+      "lang": "fr",
+      "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "Budget en diminution personnel sous pression usagerEs en perdition \n\nSoutien à l'ensemble du personnel hospitalier… https://t.co/1QcJzfvUa4",
+      "truncated": true,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Thu Sep 17 18:48:11 +0000 2015",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Association issue de la communauté LGBTQI, Act Up Sud-Ouest veille à défendre équitablement toutes les populations touchées par le VIH contact.actup@gmail.com",
+          "entities": {
+              "url": {
+                  "urls": [
+                      {
+                          "display_url": "actupsudouest.org",
+                          "expanded_url": "http://actupsudouest.org",
+                          "indices": [
+                              0,
+                              23
+                          ],
+                          "url": "https://t.co/2pRwYRIUSR"
+                      }
+                  ]
+              }
+          },
+          "favourites_count": 713,
+          "follow_request_sent": false,
+          "followers_count": 3018,
+          "following": false,
+          "friends_count": 2945,
+          "geo_enabled": true,
+          "has_extended_profile": false,
+          "id": 3688476197,
+          "id_str": "3688476197",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "fr",
+          "listed_count": 38,
+          "location": "Toulouse, France",
+          "name": "Act Up Sud-Ouest",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3688476197/1559946770",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1007895343810400256/KLnjihVx_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007895343810400256/KLnjihVx_normal.jpg",
+          "profile_link_color": "DF5FDB",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "actupsudouest",
+          "statuses_count": 3548,
+          "translator_type": "none",
+          "url": "https://t.co/2pRwYRIUSR",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:23 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 35516339,
+                  "id_str": "35516339",
+                  "indices": [
+                      3,
+                      16
+                  ],
+                  "name": "Abdul El-Sayed",
+                  "screen_name": "AbdulElSayed"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344963807371300,
+      "id_str": "1138344963807371264",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 1461,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Mon Jun 10 14:21:00 +0000 2019",
+          "entities": {
+              "urls": [
+                  {
+                      "display_url": "twitter.com/i/web/status/1…",
+                      "expanded_url": "https://twitter.com/i/web/status/1138088678838812672",
+                      "indices": [
+                          117,
+                          140
+                      ],
+                      "url": "https://t.co/hxpUL7u7EJ"
+                  }
+              ]
+          },
+          "favorite_count": 5337,
+          "favorited": false,
+          "id": 1138088678838812700,
+          "id_str": "1138088678838812672",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "retweet_count": 1461,
+          "retweeted": false,
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "text": "Annual cost of tuition free college: $70 billion\n\nAnnual US military budget: $680 BILLION \n\nWe spend NINE TIMES MOR… https://t.co/hxpUL7u7EJ",
+          "truncated": true,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Sun Apr 26 17:41:34 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Father. Spouse. Public Health Doctor. Progressive activist. Love good people, coffee, & @umichfootball.",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "abdulelsayed.com",
+                              "expanded_url": "http://abdulelsayed.com",
+                              "indices": [
+                                  0,
+                                  23
+                              ],
+                              "url": "https://t.co/Qb4QvgqnFW"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 8542,
+              "follow_request_sent": false,
+              "followers_count": 83327,
+              "following": false,
+              "friends_count": 4298,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 35516339,
+              "id_str": "35516339",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 639,
+              "location": "The Mitten",
+              "name": "Abdul El-Sayed",
+              "notifications": false,
+              "profile_background_color": "1A1B1F",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/35516339/1533999928",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1035534514036953089/Cz6WiSKE_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035534514036953089/Cz6WiSKE_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "181A1E",
+              "profile_sidebar_fill_color": "252429",
+              "profile_text_color": "666666",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "AbdulElSayed",
+              "statuses_count": 9502,
+              "translator_type": "none",
+              "url": "https://t.co/Qb4QvgqnFW",
+              "verified": true
+          }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @AbdulElSayed: Annual cost of tuition free college: $70 billion\n\nAnnual US military budget: $680 BILLION \n\nWe spend NINE TIMES MORE on m…",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri Oct 11 15:29:53 +0000 2013",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Cutter/Editor",
+          "entities": {
+              "url": {
+                  "urls": [
+                      {
+                          "display_url": "youtube.com/user/schadi1990",
+                          "expanded_url": "https://www.youtube.com/user/schadi1990",
+                          "indices": [
+                              0,
+                              23
+                          ],
+                          "url": "https://t.co/JfFLZpJvMS"
+                      }
+                  ]
+              }
+          },
+          "favourites_count": 676,
+          "follow_request_sent": false,
+          "followers_count": 57,
+          "following": false,
+          "friends_count": 258,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 1954434806,
+          "id_str": "1954434806",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "de",
+          "listed_count": 4,
+          "location": "Deutschland",
+          "name": "Franziska ?",
+          "notifications": false,
+          "profile_background_color": "709397",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954434806/1557359067",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/942535369551237121/SZl7XrIC_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/942535369551237121/SZl7XrIC_normal.png",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "86A4A6",
+          "profile_sidebar_fill_color": "A0C5C7",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "schadi1990",
+          "statuses_count": 8585,
+          "translator_type": "none",
+          "url": "https://t.co/JfFLZpJvMS",
+          "verified": false
+      }
+  },
+  {
+      "created_at": "Tue Jun 11 07:19:17 +0000 2019",
+      "entities": {
+          "user_mentions": [
+              {
+                  "id": 1539233137,
+                  "id_str": "1539233137",
+                  "indices": [
+                      3,
+                      12
+                  ],
+                  "name": "Neil Hamilton AC/AM",
+                  "screen_name": "NeilUKIP"
+              }
+          ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "id": 1138344938595344400,
+      "id_str": "1138344938595344385",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+      },
+      "retweet_count": 1449,
+      "retweeted": false,
+      "retweeted_status": {
+          "created_at": "Mon Jun 10 18:32:17 +0000 2019",
+          "entities": {
+              "urls": [
+                  {
+                      "display_url": "twitter.com/i/web/status/1…",
+                      "expanded_url": "https://twitter.com/i/web/status/1138151918021353475",
+                      "indices": [
+                          117,
+                          140
+                      ],
+                      "url": "https://t.co/hlfOznbcXB"
+                  }
+              ]
+          },
+          "favorite_count": 3406,
+          "favorited": false,
+          "id": 1138151918021353500,
+          "id_str": "1138151918021353475",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+              "iso_language_code": "en",
+              "result_type": "recent"
+          },
+          "possibly_sensitive": false,
+          "retweet_count": 1449,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "text": "? Gary Lineker £1.8 million\n?Graham Norton £850 k \n\nBut sorry, over-75s, the BBC has no room in the budget for you!… https://t.co/hlfOznbcXB",
+          "truncated": true,
+          "user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Jun 22 18:04:05 +0000 2013",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Leader of @UKIPWales. Mid & West Wales AM. Happily married to @brit_battleaxe          Email: Neil.Hamilton@assembly.wales",
+              "entities": {
+                  "url": {
+                      "urls": [
+                          {
+                              "display_url": "neilhamiltonukip.com",
+                              "expanded_url": "http://neilhamiltonukip.com",
+                              "indices": [
+                                  0,
+                                  23
+                              ],
+                              "url": "https://t.co/qGLZC8opZ6"
+                          }
+                      ]
+                  }
+              },
+              "favourites_count": 1237,
+              "follow_request_sent": false,
+              "followers_count": 16141,
+              "following": false,
+              "friends_count": 5233,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 1539233137,
+              "id_str": "1539233137",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en-gb",
+              "listed_count": 322,
+              "location": "Cardiff, Wales",
+              "name": "Neil Hamilton AC/AM",
+              "notifications": false,
+              "profile_background_color": "661885",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1539233137/1484909269",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/923149035380396032/pFJF3iOk_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/923149035380396032/pFJF3iOk_normal.jpg",
+              "profile_link_color": "661885",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "NeilUKIP",
+              "statuses_count": 4050,
+              "translator_type": "none",
+              "url": "https://t.co/qGLZC8opZ6",
+              "verified": true
+          }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @NeilUKIP: ? Gary Lineker £1.8 million\n?Graham Norton £850 k \n\nBut sorry, over-75s, the BBC has no room in the budget for you! You now h…",
+      "truncated": false,
+      "user": {
+          "contributors_enabled": false,
+          "created_at": "Wed May 14 13:46:41 +0000 2014",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "",
+          "favourites_count": 19333,
+          "follow_request_sent": false,
+          "followers_count": 202,
+          "following": false,
+          "friends_count": 147,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 2494210062,
+          "id_str": "2494210062",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 14,
+          "location": "",
+          "name": "Rob French",
+          "notifications": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/766283396033150976/iYEbxEi0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/766283396033150976/iYEbxEi0_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "robbofrench",
+          "statuses_count": 12669,
+          "translator_type": "none",
+          "verified": false
+      }
+  }
+]
