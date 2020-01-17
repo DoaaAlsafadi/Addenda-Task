@@ -1,0 +1,14 @@
+{
+    "pages": {
+        "loginPage": {
+            "login": "Login",
+            "email":"Email",
+            "psw":"Password"
+        },
+        "tweetPage":{
+            "craetedDate":"Created Date",
+            "name":"Name",
+            "screenName":"Screen Name"
+        }
+    }
+}

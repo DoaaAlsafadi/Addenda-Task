@@ -11,7 +11,7 @@
   </tr>
   </thead>
   <tbody>
-  <tr >
+  <tr *ngFor="let tweet of tweets; index as i">
     <td>{{tweet.created_at }}</td>
     <td>{{tweet.created_at }}</td>
     <td>{{tweet.created_at }}</td>

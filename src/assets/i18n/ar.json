@@ -1,0 +1,14 @@
+{
+    "pages": {
+        "loginPage": {
+            "login": "دخول",
+            "emil":"البريدالالكتروني",
+            "psw":"كلمة المرور"
+        },
+        "tweetPage":{
+            "craetedDate":"تاريخ الانشاء",
+            "name":"الاسم",
+            "screenName":"اسم الواجهة"
+        }
+    }
+}
