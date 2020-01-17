@@ -7,16 +7,20 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./tweets.component.css']
 })
 export class TweetsComponent implements OnInit {
+  tweets: any;
 
-  constructor(private tweetService:TweetsService) { }
+  constructor(private tweetService: TweetsService) { }
 
   ngOnInit() {
+    this.getTweets();
   }
 
-  getTweets(){
-this.tweetService.getTweets().subscribe(res=> {
-  console.log(res);
-
-})
+  getTweets() {
+    this.tweetService.getTweets().subscribe(res => {
+      this.tweets = res;
+      console.log(res);
+    }, error => {
+      console.log(error);
+    })
   }
 }

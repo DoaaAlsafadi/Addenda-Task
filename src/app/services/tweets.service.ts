@@ -8,7 +8,7 @@ import { map } from 'rxjs/operators';
   providedIn: "root"
 })
 export class TweetsService {
-  idToken;
+  idToken=localStorage.getItem('idToken');
 
   constructor(private http: HttpClient) {}
   // Observable<Tweet[]>
@@ -17,11 +17,7 @@ export class TweetsService {
       .get(
         "https://angular-sample-twitter.firebaseio.com/tweets.json?auth=" +
           this.idToken
-      ).pipe(
-        map((res: Response) => {
-          console.log(res);
-        })
-    );
+      )
 
   }
 }

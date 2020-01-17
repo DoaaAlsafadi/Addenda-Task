@@ -5,7 +5,6 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from "@angular/router";
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { ReactiveFormsModule } from '@angular/forms';
-
 const pagesRoutes: Routes = [
   { path: "", component: LoginComponent },
   { path: "login", component: LoginComponent },
