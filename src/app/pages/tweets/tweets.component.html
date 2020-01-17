@@ -1,20 +1,19 @@
 
-<table class="table table-striped">
-  <thead *ngFor="let tweet of tweets; index as i">
-  <tr>
-    <th colspan="4">Creation Date :{{tweet.created_at}}</th>
-  </tr>
-  <tr>
-    <th>Id</th>
-    <th>Name</th>
-    <th>Screen Name</th>
-  </tr>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">{{'pages.tweetPage.id' | translate}} </th>
+      <th scope="col">{{'pages.tweetPage.name' | translate}} </th>
+      <th scope="col">{{'pages.tweetPage.screenName' | translate}} </th>
+      <th scope="col">{{'pages.tweetPage.createdDate' | translate}} </th>
+    </tr>
   </thead>
   <tbody>
-  <tr *ngFor="let tweet of tweets; index as i">
-    <td>{{tweet.created_at }}</td>
-    <td>{{tweet.created_at }}</td>
-    <td>{{tweet.created_at }}</td>
-  </tr>
+    <tr *ngFor='let tweet of tweets;index as i'>
+      <th scope="row">{{tweet.user.id}}</th>
+      <td>{{tweet.user.name}}</td>
+      <td>{{tweet.user.screen_name}}</td>
+      <td>{{tweet.created_at}}</td>
+    </tr>
   </tbody>
 </table>

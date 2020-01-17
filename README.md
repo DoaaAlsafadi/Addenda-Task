@@ -8,5 +8,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2- Interceptor
 3- Authguard
 4- Lazy Loading
-5- 
+5- Models
 

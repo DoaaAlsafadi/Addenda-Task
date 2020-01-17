@@ -6,7 +6,8 @@
             "psw":"Password"
         },
         "tweetPage":{
-            "craetedDate":"Created Date",
+            "id":"Id",
+            "createdDate":"Created Date",
             "name":"Name",
             "screenName":"Screen Name"
         }

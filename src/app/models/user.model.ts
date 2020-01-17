@@ -1,17 +1,15 @@
-import {Deserializable} from "./deserializable.model";
+import { Deserializable } from "./deserializable.model";
 
 export class User implements Deserializable {
 
-  id:string;
+  id: string;
 
-  name:string;
+  name: string;
 
-  screen_name:string
+  screen_name: string
+  followers_count:Number;
 
-  indices:Number[];
-
-
-   deserialize(input: any) {
+  deserialize(input: any) {
     Object.assign(this, input);
     return this;
   }

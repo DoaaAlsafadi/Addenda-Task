@@ -3,13 +3,14 @@ import {Deserializable} from "./deserializable.model";
 
 export class Tweet implements Deserializable {
 
-    created_at:string
-    users:User[]=[];
+    created_at:string;
+    user:User;
 
 
   deserialize(input: any) {
     Object.assign(this, input);
-    this.users.concat(new User().deserialize(input.user))
+    console.log(this);
+    this.user = new User().deserialize(input.user);
     return this;
   }
 }

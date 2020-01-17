@@ -12,12 +12,18 @@ export class TweetsService {
 
   constructor(private http: HttpClient) {}
   // Observable<Tweet[]>
-  getTweets():any{
+  getTweets():Observable<Tweet[]>{
     return this.http
       .get(
         "https://angular-sample-twitter.firebaseio.com/tweets.json?auth=" +
           this.idToken
-      )
+      ).pipe(map((data:Tweet[])=>{
+        data.map(ele => {
+          new Tweet().deserialize(ele)
+        });
+        console.log(data,"898989");
+        return data;
+      }))
 
   }
 }
