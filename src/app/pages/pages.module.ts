@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from "@angular/router";
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { ReactiveFormsModule } from '@angular/forms';
 
 const pagesRoutes: Routes = [
   { path: "", component: LoginComponent },
@@ -19,7 +20,8 @@ const pagesRoutes: Routes = [
   imports: [
     CommonModule,
     NgbModule,
-    RouterModule.forChild(pagesRoutes)
+    RouterModule.forChild(pagesRoutes),
+    ReactiveFormsModule
   ]
 })
 export class PagesModule { }
