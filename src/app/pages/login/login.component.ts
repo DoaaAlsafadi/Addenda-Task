@@ -32,7 +32,7 @@ export class LoginComponent implements OnInit {
   login() {
     this.authService.login(this.loginForm.value).subscribe(
       (res: any) => {
-        localStorage.setItem('idToken', res.idToken)
+        this.authService.setInLocalStorage('idToken',res.idToken)
         this.router.navigateByUrl('tweets');
         console.log(res);
       },

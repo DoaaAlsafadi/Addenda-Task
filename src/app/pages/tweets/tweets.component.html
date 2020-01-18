@@ -1,19 +1,27 @@
+<div class="body">
+  <h1>
+    {{'pages.tweetPage.tweets' | translate}}
+      <i class="fa fa-twitter"></i>
+     </h1>
 
-<table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">{{'pages.tweetPage.id' | translate}} </th>
-      <th scope="col">{{'pages.tweetPage.name' | translate}} </th>
-      <th scope="col">{{'pages.tweetPage.screenName' | translate}} </th>
-      <th scope="col">{{'pages.tweetPage.createdDate' | translate}} </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr *ngFor='let tweet of tweets;index as i'>
-      <th scope="row">{{tweet.user.id}}</th>
-      <td>{{tweet.user.name}}</td>
-      <td>{{tweet.user.screen_name}}</td>
-      <td>{{tweet.created_at}}</td>
-    </tr>
-  </tbody>
-</table>
+
+  <table class="container">
+    <thead>
+      <tr>
+        <th scope="col">{{'pages.tweetPage.id' | translate}} </th>
+        <th scope="col">{{'pages.tweetPage.name' | translate}} </th>
+        <th scope="col">{{'pages.tweetPage.screenName' | translate}} </th>
+        <th scope="col">{{'pages.tweetPage.createdDate' | translate}} </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor='let tweet of tweets;index as i'>
+        <th scope="row">{{tweet.user.id}}</th>
+        <td>{{tweet.user.name}}</td>
+        <td>{{tweet.user.screen_name}}</td>
+        <td>{{tweet.created_at}}</td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>

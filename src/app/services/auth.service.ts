@@ -17,4 +17,11 @@ export class AuthService {
     return token ? true : false;
   }
 
+  getFromLocalStorage(key){
+    return localStorage.getItem(key)
+  }
+
+  setInLocalStorage(key,value){
+    localStorage.setItem(key,value)
+  }
 }

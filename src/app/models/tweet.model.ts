@@ -9,7 +9,6 @@ export class Tweet implements Deserializable {
 
   deserialize(input: any) {
     Object.assign(this, input);
-    console.log(this);
     this.user = new User().deserialize(input.user);
     return this;
   }

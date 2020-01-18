@@ -4,13 +4,16 @@ import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { Observable } from "rxjs";
 import { map } from 'rxjs/operators';
+import { AuthService } from './auth.service';
 @Injectable({
   providedIn: "root"
 })
 export class TweetsService {
-  idToken=localStorage.getItem('idToken');
+  idToken;
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient,private authService:AuthService) {
+    this.idToken = localStorage.getItem('idToken');
+  }
   // Observable<Tweet[]>
   getTweets():Observable<Tweet[]>{
     return this.http
@@ -21,7 +24,6 @@ export class TweetsService {
         data.map(ele => {
           new Tweet().deserialize(ele)
         });
-        console.log(data,"898989");
         return data;
       }))
 

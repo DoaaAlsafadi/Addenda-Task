@@ -9,7 +9,8 @@
             "id":"Id",
             "createdDate":"Created Date",
             "name":"Name",
-            "screenName":"Screen Name"
+            "screenName":"Screen Name",
+            "tweets":"Tweets"
         }
     }
 }

@@ -5,15 +5,15 @@
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
-@font-face {
+/* @font-face {
   font-family: Ubuntu-Regular;
   src: url('../fonts/ubuntu/Ubuntu-Regular.ttf'); 
-}
+} */
 
-@font-face {
-  font-family: Ubuntu-Bold;
-  src: url('../fonts/ubuntu/Ubuntu-Bold.ttf'); 
-}
+/* @font-face { */
+  /* font-family: Ubuntu-Bold; */
+  /* src: url('../fonts/ubuntu/Ubuntu-Bold.ttf');  */
+/* } */
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
@@ -133,6 +133,7 @@ iframe {
 .limiter {
   width: 100%;
   margin: 0 auto;
+  background-color:#1F2739;
 }
 
 .container-login100 {
